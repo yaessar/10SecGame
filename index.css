@@ -1,3 +1,31 @@
-h2 {
-  color: blue;
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+body {
+  font-family: 'Fredericka the Great', cursive;
+  background-image: url(/images/jess-bailey-l3N9Q27zULw-unsplash.jpg);
+  background-size: auto;
+  text-align: center;
+  
+}
+h1{
+  font-size: 120px;
+  color:blue;
+}
+h2{
+  font-size: 80px;
+  color:blue;
+}
+input, p{
+  font-size: 30px;
+}
+h3{
+  color: rgb(255, 0, 13);
+  font-size: 48px;
+  font-weight: 600;
+}
+p{
+  font-weight: 500;
+}
+h4{
+  font-size: 36px;
 }
